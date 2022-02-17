@@ -5,10 +5,7 @@ import TodoItem from "./components/todoitem";
 
 class App extends Component {
   state = {
-    todos: [
-      { id: v4(), title: "Some todo item", checked: true },
-      { id: v4(), title: "Some todo item", checked: false },
-    ],
+    todos: [{ id: v4(), title: "Test", checked: true }],
     newTodoText: "",
   };
 
