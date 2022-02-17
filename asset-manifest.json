@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Bootstrap_Todo/static/css/main.5740cf87.css",
-    "main.js": "/Bootstrap_Todo/static/js/main.ded9227d.js",
+    "main.css": "/Bootstrap_Todo/static/css/main.23c4092b.css",
+    "main.js": "/Bootstrap_Todo/static/js/main.5c9082fa.js",
     "static/js/787.4174b144.chunk.js": "/Bootstrap_Todo/static/js/787.4174b144.chunk.js",
     "index.html": "/Bootstrap_Todo/index.html",
-    "main.5740cf87.css.map": "/Bootstrap_Todo/static/css/main.5740cf87.css.map",
-    "main.ded9227d.js.map": "/Bootstrap_Todo/static/js/main.ded9227d.js.map",
+    "main.23c4092b.css.map": "/Bootstrap_Todo/static/css/main.23c4092b.css.map",
+    "main.5c9082fa.js.map": "/Bootstrap_Todo/static/js/main.5c9082fa.js.map",
     "787.4174b144.chunk.js.map": "/Bootstrap_Todo/static/js/787.4174b144.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5740cf87.css",
-    "static/js/main.ded9227d.js"
+    "static/css/main.23c4092b.css",
+    "static/js/main.5c9082fa.js"
   ]
 }
